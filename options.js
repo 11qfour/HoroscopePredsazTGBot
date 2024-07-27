@@ -22,7 +22,7 @@ module.exports = {
     timeInterval:{
         reply_markup: JSON.stringify({
             inline_keyboard:[
-                [{text: 'Вчера', callback_data: 'yesterdayInterval'},{text: 'Сегодня', callback_data: 'todayInterval'},{text: 'Завтра', callback_data: 'tomorrowDate'}],
+                [{text: 'Вчера', callback_data: 'yesterdayInterval'},{text: 'Сегодня', callback_data: 'todayInterval'},{text: 'Завтра', callback_data: 'tomorrowInterval'}],
                 [{text: 'Неделя', callback_data: 'weekInterval'},{text: 'Месяц', callback_data: 'monthInterval'}],
             ]
         })
