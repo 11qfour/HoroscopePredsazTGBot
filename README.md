@@ -14,7 +14,7 @@
 
 * Интерфейс программы
 
-![Функционал](https://github.com/11qfour/HoroscopePredsazTGBot/media/tg_bot_preview.gif)
+![Функционал](https://github.com/11qfour/HoroscopePredsazTGBot/blob/main/media/tg_bot_preview.gif)
 
 * Название бота - @HoroscopePredskazBot
 
